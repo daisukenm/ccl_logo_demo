@@ -1,4 +1,4 @@
-CCL code demo, created by giving reference image and prompting for few times. 
+CCL logo demo, created by giving reference image and prompting for few times. 
 
 Prompt history: https://chatgpt.com/share/6abc1a3f-3ad4-83eb-83a7-cfb6d8c82035
 
